@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guilh\\source\\repos\\Tattoo_io\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4380242D-14B5-4036-A07B-EEE7602F07DD}|Tattoo_io.vbproj|C:\\Users\\guilh\\source\\repos\\Tattoo_io\\frmMenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4380242D-14B5-4036-A07B-EEE7602F07DD}|Tattoo_io.vbproj|solutionrelative:frmMenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4380242D-14B5-4036-A07B-EEE7602F07DD}|Tattoo_io.vbproj|C:\\Users\\guilh\\source\\repos\\Tattoo_io\\frmAgendamentos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4380242D-14B5-4036-A07B-EEE7602F07DD}|Tattoo_io.vbproj|solutionrelative:frmAgendamentos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4380242D-14B5-4036-A07B-EEE7602F07DD}|Tattoo_io.vbproj|C:\\Users\\guilh\\source\\repos\\Tattoo_io\\frmClientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4380242D-14B5-4036-A07B-EEE7602F07DD}|Tattoo_io.vbproj|solutionrelative:frmClientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4380242D-14B5-4036-A07B-EEE7602F07DD}|Tattoo_io.vbproj|C:\\Users\\guilh\\source\\repos\\Tattoo_io\\frmGaleria.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4380242D-14B5-4036-A07B-EEE7602F07DD}|Tattoo_io.vbproj|solutionrelative:frmGaleria.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4380242D-14B5-4036-A07B-EEE7602F07DD}|Tattoo_io.vbproj|c:\\users\\guilh\\source\\repos\\tattoo_io\\frmmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4380242D-14B5-4036-A07B-EEE7602F07DD}|Tattoo_io.vbproj|solutionrelative:frmmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4380242D-14B5-4036-A07B-EEE7602F07DD}|Tattoo_io.vbproj|C:\\Users\\guilh\\source\\repos\\Tattoo_io\\frmIA.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4380242D-14B5-4036-A07B-EEE7602F07DD}|Tattoo_io.vbproj|solutionrelative:frmIA.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4380242D-14B5-4036-A07B-EEE7602F07DD}|Tattoo_io.vbproj|C:\\Users\\guilh\\source\\repos\\Tattoo_io\\frmMenu.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4380242D-14B5-4036-A07B-EEE7602F07DD}|Tattoo_io.vbproj|solutionrelative:frmMenu.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMenu.vb",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\Tattoo_io\\frmMenu.vb",
+              "RelativeDocumentMoniker": "frmMenu.vb",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\Tattoo_io\\frmMenu.vb",
+              "RelativeToolTip": "frmMenu.vb",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-17T00:05:29.663Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmGaleria.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\Tattoo_io\\frmGaleria.vb",
+              "RelativeDocumentMoniker": "frmGaleria.vb",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\Tattoo_io\\frmGaleria.vb [Design]",
+              "RelativeToolTip": "frmGaleria.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-17T22:05:26.766Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAgendamentos.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\Tattoo_io\\frmAgendamentos.vb",
+              "RelativeDocumentMoniker": "frmAgendamentos.vb",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\Tattoo_io\\frmAgendamentos.vb [Design]",
+              "RelativeToolTip": "frmAgendamentos.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-17T22:04:31.12Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMenu.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\Tattoo_io\\frmMenu.vb",
+              "RelativeDocumentMoniker": "frmMenu.vb",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\Tattoo_io\\frmMenu.vb [Design]",
+              "RelativeToolTip": "frmMenu.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-17T22:04:26.837Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmClientes.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\Tattoo_io\\frmClientes.vb",
+              "RelativeDocumentMoniker": "frmClientes.vb",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\Tattoo_io\\frmClientes.vb [Design]",
+              "RelativeToolTip": "frmClientes.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-17T22:04:21.555Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmIA.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\Tattoo_io\\frmIA.vb",
+              "RelativeDocumentMoniker": "frmIA.vb",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\Tattoo_io\\frmIA.vb [Design]",
+              "RelativeToolTip": "frmIA.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-17T22:06:16.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMenu.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\Tattoo_io\\frmMenu.Designer.vb",
+              "RelativeDocumentMoniker": "frmMenu.Designer.vb",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\Tattoo_io\\frmMenu.Designer.vb",
+              "RelativeToolTip": "frmMenu.Designer.vb",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-17T22:00:29.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
