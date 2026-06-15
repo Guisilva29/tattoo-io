@@ -127,4 +127,4 @@ Tattoo_io/
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Guilherme Oliveira** e **Angélia Assis** — FATEC
+Desenvolvido por **Guilherme Oliveira** e **Angélia Assis** — FATEC SÃO CAETANO DO SUL ANTONIO RUSSO
